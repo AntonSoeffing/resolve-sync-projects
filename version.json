@@ -1,0 +1,29 @@
+{
+  "version_id": "c423e5d6a0409f99",
+  "project": "Shift at Midnight",
+  "author": "rms",
+  "machine_id": "792989561f1a",
+  "created": "2026-10-03T15:24:07.443952+00:00",
+  "parent": null,
+  "message": "",
+  "drp_name": "project.drp",
+  "media": [
+    {
+      "clip_name": "2026-09-11 23-02-16.mkv",
+      "original_path": "P:\\rec\\2026-09-11 23-02-16.mkv",
+      "name": "2026-09-11 23-02-16.mkv",
+      "size": 34155556,
+      "partial_hash": "0ff9ddc8def603e7e9efd9731ed153fba9b2b1f3"
+    },
+    {
+      "clip_name": "2026-09-11 20-06-34.mkv",
+      "original_path": "P:\\rec\\2026-09-11 20-06-34.mkv",
+      "name": "2026-09-11 20-06-34.mkv",
+      "size": 23601573663,
+      "partial_hash": "2289dd4cd334b74268e9d60b82d5df3d71a7f4e0"
+    }
+  ],
+  "media_roots": [
+    "P:\\rec"
+  ]
+}
