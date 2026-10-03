@@ -1,0 +1,31 @@
+{
+  "version_id": "e90d1245f00f2a03",
+  "project": "Photos",
+  "author": "rms",
+  "machine_id": "792989561f1a",
+  "created": "2026-10-03T15:23:58.561453+00:00",
+  "parent": null,
+  "message": "",
+  "drp_name": "project.drp",
+  "media": [
+    {
+      "clip_name": "DSCF0119.RAF",
+      "original_path": "P:\\drive\\photos\\stuttgart\\2023\\march_9\\DSCF0119.RAF",
+      "name": "dscf0119.raf",
+      "size": 26400800,
+      "partial_hash": "a24c5bab0b902cafb398da20777c568217efb78d"
+    },
+    {
+      "clip_name": "DSCF7251.RAF",
+      "original_path": "P:\\drive\\photos\\bremen\\roof\\DSCF7251.RAF",
+      "name": "dscf7251.raf",
+      "size": 58884416,
+      "partial_hash": "ebf92a97cc390f412aebd4202ef1d065f18cd2cb"
+    }
+  ],
+  "media_roots": [
+    "P:\\drive",
+    "P:\\drive\\photos\\bremen\\roof",
+    "P:\\drive\\photos\\stuttgart\\2023\\march_9"
+  ]
+}
