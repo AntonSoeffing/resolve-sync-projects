@@ -1,0 +1,22 @@
+{
+  "version_id": "dcd639a04cfaad4c",
+  "project": "Silent Still II",
+  "author": "rms",
+  "machine_id": "792989561f1a",
+  "created": "2026-10-03T15:24:56.792990+00:00",
+  "parent": null,
+  "message": "",
+  "drp_name": "project.drp",
+  "media": [
+    {
+      "clip_name": "2026-09-13 19-15-36.mkv",
+      "original_path": "P:\\rec\\2026-09-13 19-15-36.mkv",
+      "name": "2026-09-13 19-15-36.mkv",
+      "size": 17147535259,
+      "partial_hash": "764208f2c030dcb3744156323b8831d3bd65c8a5"
+    }
+  ],
+  "media_roots": [
+    "P:\\rec"
+  ]
+}
