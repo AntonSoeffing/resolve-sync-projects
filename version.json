@@ -1,0 +1,30 @@
+{
+  "version_id": "ab65204d9eb830db",
+  "project": "Einstellung zum Selbst",
+  "author": "rms",
+  "machine_id": "792989561f1a",
+  "created": "2026-10-03T15:17:42.890969+00:00",
+  "parent": null,
+  "message": "",
+  "drp_name": "project.drp",
+  "media": [
+    {
+      "clip_name": "birds.wav",
+      "original_path": "C:\\Users\\anton\\sync\\music\\arc\\export\\birds.wav",
+      "name": "birds.wav",
+      "size": 88734060,
+      "partial_hash": "ba3a683ae6dd50a1559726a1117723fc627c381c"
+    },
+    {
+      "clip_name": "tech_atmo.wav",
+      "original_path": "C:\\Users\\anton\\sync\\music\\arc\\export\\tech_atmo.wav",
+      "name": "tech_atmo.wav",
+      "size": 88600328,
+      "partial_hash": "ce8cb854a29f84f3ea9fe3abfaab0740905b2a1e"
+    }
+  ],
+  "media_roots": [
+    "C:\\Users",
+    "C:\\Users\\anton\\sync\\music\\arc\\export"
+  ]
+}
